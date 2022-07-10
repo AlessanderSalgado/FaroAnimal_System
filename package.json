@@ -1,8 +1,8 @@
 {
-  "name": "FaroAnimal_System",
+  "name": "faro-animal-system",
   "version": "1.0.0",
   "private": true,
-  "homepage": "FaroAnimal_System",
+  "homepage": "faro-animal-system",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
