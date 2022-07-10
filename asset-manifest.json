@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/faro-animal-system/static/css/main.f7f536cc.css",
+    "main.js": "/faro-animal-system/static/js/main.0e9f019e.js",
+    "static/js/787.e7dccf82.chunk.js": "/faro-animal-system/static/js/787.e7dccf82.chunk.js",
+    "static/media/logo_branca.png": "/faro-animal-system/static/media/logo_branca.c008be98528d3f0ace6b.png",
+    "index.html": "/faro-animal-system/index.html",
+    "main.f7f536cc.css.map": "/faro-animal-system/static/css/main.f7f536cc.css.map",
+    "main.0e9f019e.js.map": "/faro-animal-system/static/js/main.0e9f019e.js.map",
+    "787.e7dccf82.chunk.js.map": "/faro-animal-system/static/js/787.e7dccf82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7f536cc.css",
+    "static/js/main.0e9f019e.js"
+  ]
+}
