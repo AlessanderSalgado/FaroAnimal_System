@@ -20,7 +20,37 @@ a:hover {
   width: 68px;
   height: 39px;
 }
-
+#div-busca-menu{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 0;
+  margin: 0 0.6rem;
+  background-color:white;
+  border-radius:9px;
+  width:90%;
+  height: 35px;
+}
+#input-busca-menu{
+  box-sizing: border-box;
+  box-decoration-break: unset;
+  background-color:transparent;
+  padding-left: 3px;
+  padding-top: 0px;
+  font-style:italic;
+  font-size:18px;
+  border:none;
+  height:35px;
+  width:80%;
+  border-radius: 9px;
+}
+#img-busca-menu{
+  left: 0;
+  padding-right: 5px;
+  width: 30px;
+  height: 30px;
+}
 #header {
   box-sizing: border-box;
   height: 70px;
