@@ -32,19 +32,19 @@ const Menu = () => {
                             </div>
                         </li>
                         {listaMenu.map((menuName,i)=>{
-                            return <li key={i}><a href='/'>{menuName}</a></li>
+                            return <li key={i}><a href='/faro-animal-system/financeiro'>{menuName}</a></li>
                         })}
                     </ul>
                     <button onClick={toggleMenu} aria-label="Abrir Menu" id="btn-mobile" aria-haspopup="true" aria-controls="menu" aria-expanded="false">
                         <span id="hamburger"></span>
                     </button>
                 </nav>
-                <a id="logo" href="/">
+                <a id="logo" href="/faro-animal-system/">
                 <img id="img_logo" alt='' src={Logo}></img></a>
             </div>
             <div id="user_logout">
-                <a id="user" href="/">User: Alessander</a>
-                <a id="sair" href="/">Sair</a>
+                <a id="user" href="/faro-animal-system/">User: Alessander</a>
+                <a id="sair" href="/faro-animal-system/">Sair</a>
             </div>
         </header>
         </>
